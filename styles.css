@@ -397,3 +397,11 @@ dd{
     background-color: #f5e0f5; /* Hover background color */
     color: #000; /* Font color turns black on hover */
 }
+
+.certificate-strong {
+    color: white; 
+}
+
+.certificate-strong:hover {
+    color: #000; /* Font color turns black on hover */
+}
