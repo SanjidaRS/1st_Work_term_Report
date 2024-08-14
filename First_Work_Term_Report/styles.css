@@ -378,4 +378,22 @@ dd{
 	text-align: left; /* Ensure text is left aligned */
 }
   
-  
+ 
+.certificate-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white; 
+    background-color: #a543a5; /* Background color */
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Updated box-shadow for better styling */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Added color transition */
+    margin-left: 25px; /* Move button 25px to the right */
+}
+
+.certificate-button:hover {
+    background-color: #f5e0f5; /* Hover background color */
+    color: #000; /* Font color turns black on hover */
+}
