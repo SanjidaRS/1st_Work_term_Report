@@ -247,7 +247,7 @@ dd {
   padding: 0; /* Remove padding to keep items aligned correctly */
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   background-repeat: no-repeat;
-  background-color: #a543a5;
+  background-color: white;
   display: flex;
   justify-content: center; /* Center the items */
   align-items: center; /* Vertically center the items */
